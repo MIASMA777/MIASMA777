@@ -28,7 +28,7 @@
 
 ### Tech Devices
 <details>
-ㅤ<summary>💻 ThinkPad L14 Gen 1 AMD</summary>
+ㅤ<summary>💻 </summary>
  
  * **CPU:** Intel(R) Core(TM) i3-14100F
  * **GPU:** GeForce RTX 3060

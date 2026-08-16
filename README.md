@@ -5,7 +5,7 @@
 ### Here's a bit about me:
 - 🎓 &nbsp; High School Graduate
 - 📍 &nbsp; I'm from [**Monaco**](https://en.wikipedia.org/wiki/Monaco)
-- 🐧 &nbsp; Linux user Currently on [**Debian**](https://www.debian.org/)
+- 🐧 &nbsp; Linux user Currently on [**Cachy**]((https://wiki.cachyos.org/fr/))
 - 💻 &nbsp; No specific area yet
 
 ---
